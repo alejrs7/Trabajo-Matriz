@@ -1,4 +1,4 @@
-# Trabajo-Matriz-
+# Trabajo Matriz
 En el siguiente readme se presenta los ejercicios de matrices con sus respectivos links
 
 El link del primer ejercicio
