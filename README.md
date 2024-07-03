@@ -1,5 +1,5 @@
 # Trabajo Matriz
-En el siguiente readme se presenta los ejercicios de matrices con sus respectivos links
+En el siguiente readme se presenta los ejercicios de matrices con sus respectivos links aplicando las fucniones basicas de C 
 
 El link del primer ejercicio
 
