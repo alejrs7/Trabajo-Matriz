@@ -48,3 +48,13 @@ https://github.com/alejrs7/Trabajo-Matriz-/blob/main/restadematrices.c
 El link del doceavo ejercicio
 
 https://github.com/alejrs7/Trabajo-Matriz-/blob/main/multiplicacionmatrices.c
+
+El link del treceavo ejercicio 
+
+https://github.com/alejrs7/Trabajo-Matriz/blob/main/divisionmatrices.c
+
+El link del catorceavo ejercicio 
+
+https://github.com/alejrs7/Trabajo-Matriz/blob/main/potenciamatrices.c
+
+
